@@ -48,7 +48,7 @@ We utilized the full power of the Flare Network to make this possible:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+
 
 | Landing Page | Universal Access |
 | :---: | :---: |
@@ -93,3 +93,4 @@ Built with ❤️ at the Flare Hackathon.
 
 *   **Vynik** - Full Stack & Smart Contract Engineer
 *   **Yashas** - Frontend & Design Architect
+
